@@ -60,6 +60,22 @@
                 }
               ],
               "filename": "f5d99d4c-0871-f57f-61a2-a46961f0e58f"
+            },
+            {
+              "id": "studio_batch_979e6f4cf44d4986/track_01_batch_story/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794902093.232543,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_01_batch_story/0c9cd6ec-ab22-e447-afea-8a6fd5db496e.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_01_batch_story/0c9cd6ec-ab22-e447-afea-8a6fd5db496e.flac"
+                }
+              ],
+              "filename": "0c9cd6ec-ab22-e447-afea-8a6fd5db496e"
             }
           ]
         },
@@ -116,6 +132,22 @@
                 }
               ],
               "filename": "8ace3842-bd40-d21f-eefd-dc45c9582e7d"
+            },
+            {
+              "id": "studio_batch_979e6f4cf44d4986/track_02_the_candle_hears_the_electricity/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794902093.232543,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_02_the_candle_hears_the_electricity/85bf5978-3a56-41da-9a34-7a911d2b3a1c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_02_the_candle_hears_the_electricity/85bf5978-3a56-41da-9a34-7a911d2b3a1c.flac"
+                }
+              ],
+              "filename": "85bf5978-3a56-41da-9a34-7a911d2b3a1c"
             }
           ]
         },
@@ -172,6 +204,22 @@
                 }
               ],
               "filename": "e29b03db-2cae-ca6f-5b5b-b4e3e36afdb6"
+            },
+            {
+              "id": "studio_batch_979e6f4cf44d4986/track_03_cold_brewed_green_tea/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794902093.232543,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_03_cold_brewed_green_tea/9f7d97f6-c617-3ede-d949-1858ce847042.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_03_cold_brewed_green_tea/9f7d97f6-c617-3ede-d949-1858ce847042.flac"
+                }
+              ],
+              "filename": "9f7d97f6-c617-3ede-d949-1858ce847042"
             }
           ]
         },
@@ -228,6 +276,22 @@
                 }
               ],
               "filename": "0567831e-2b4b-ab9d-65d9-7b17ad4ca574"
+            },
+            {
+              "id": "studio_batch_979e6f4cf44d4986/track_04_a_flame_beneath_the_glass/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794902093.232543,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_04_a_flame_beneath_the_glass/499a16bd-e187-37fe-46b8-893a8d6c6bc6.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_04_a_flame_beneath_the_glass/499a16bd-e187-37fe-46b8-893a8d6c6bc6.flac"
+                }
+              ],
+              "filename": "499a16bd-e187-37fe-46b8-893a8d6c6bc6"
             }
           ]
         },
@@ -284,6 +348,22 @@
                 }
               ],
               "filename": "e49b3d45-95b7-415a-92ba-ee517000383c"
+            },
+            {
+              "id": "studio_batch_979e6f4cf44d4986/track_05_the_leaves_are_still_a_flood/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794902093.232543,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_05_the_leaves_are_still_a_flood/1da11408-7c6b-6e66-f4af-dff5ece3ec5f.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_05_the_leaves_are_still_a_flood/1da11408-7c6b-6e66-f4af-dff5ece3ec5f.flac"
+                }
+              ],
+              "filename": "1da11408-7c6b-6e66-f4af-dff5ece3ec5f"
             }
           ]
         },
@@ -340,6 +420,22 @@
                 }
               ],
               "filename": "b0c602b4-2fbc-423f-67e6-c65b789b1a00"
+            },
+            {
+              "id": "studio_batch_979e6f4cf44d4986/track_06_the_city_has_not_yet_spoken/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794902093.232543,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_06_the_city_has_not_yet_spoken/ccc54fb8-6a46-9cb9-3d07-ff243af8892c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_06_the_city_has_not_yet_spoken/ccc54fb8-6a46-9cb9-3d07-ff243af8892c.flac"
+                }
+              ],
+              "filename": "ccc54fb8-6a46-9cb9-3d07-ff243af8892c"
             }
           ]
         },
@@ -396,6 +492,22 @@
                 }
               ],
               "filename": "ab49a42a-d598-cd13-0b85-affdf54c44de"
+            },
+            {
+              "id": "studio_batch_979e6f4cf44d4986/track_07_the_temperature_of_tenderness/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794902093.232543,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_07_the_temperature_of_tenderness/ace310c8-11ef-6d3d-2f8e-b81c7d3dd300.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_07_the_temperature_of_tenderness/ace310c8-11ef-6d3d-2f8e-b81c7d3dd300.flac"
+                }
+              ],
+              "filename": "ace310c8-11ef-6d3d-2f8e-b81c7d3dd300"
             }
           ]
         },
@@ -452,6 +564,22 @@
                 }
               ],
               "filename": "e4fb2a3d-83b3-9b24-d6db-0aea695c8a1f"
+            },
+            {
+              "id": "studio_batch_979e6f4cf44d4986/track_08_when_the_tea_is_ready/1",
+              "model": "ACE-Step 1.5 · LM+SFT",
+              "timestamp": 1794902093.232543,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_08_when_the_tea_is_ready/a2ed1591-1033-abf0-8399-173bc538bce9.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_979e6f4cf44d4986/track_08_when_the_tea_is_ready/a2ed1591-1033-abf0-8399-173bc538bce9.flac"
+                }
+              ],
+              "filename": "a2ed1591-1033-abf0-8399-173bc538bce9"
             }
           ]
         }
