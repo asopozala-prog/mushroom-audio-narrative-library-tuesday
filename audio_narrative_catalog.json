@@ -1,0 +1,461 @@
+{
+  "schema": "mushroom.audio-narrative.catalog",
+  "schema_version": 1,
+  "stories": [
+    {
+      "id": "the_candle_can_hear_the_electricity",
+      "title": "The Candle Can Hear The Electricity",
+      "description": "On a very quiet November morning, a glass of cold-brewed green tea is placed above a small candle flame, slowly warming to a gentle drinking temperature. The room is so still that the candle seems able to hear the faint electricity moving through the walls, while the green tea listens to the autumn leaves outside. Across the streets, fallen leaves continue to cover the city like a golden-brown flood, gathering along pavements and around the feet of trees. Nothing urgent happens: the flame flickers, the tea gradually warms, and the last traces of autumn remain outside the window. Between the almost inaudible sounds of the room and the immense silence of the city, a November morning quietly begins.",
+      "scenes": [
+        {
+          "id": "the_candle_can_hear_the_electricity/track_01_batch_story/4ac4a5dd9f14e500",
+          "title": "Track 01 Batch Story",
+          "order": 1,
+          "prompt": "On a very quiet November morning, a glass of cold-brewed green tea is placed above a small candle flame, slowly warming to a gentle drinking temperature. The room is so still that the candle seems able to hear the faint electricity moving through the walls, while the green tea listens to the autumn leaves outside. Across the streets, fallen leaves continue to cover the city like a golden-brown flood, gathering along pavements and around the feet of trees. Nothing urgent happens: the flame flickers, the tea gradually warms, and the last traces of autumn remain outside the window. Between the almost inaudible sounds of the room and the immense silence of the city, a November morning quietly begins.",
+          "recordings": [
+            {
+              "id": "studio_batch_09d14df525854d2a/track_01_batch_story/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_01_batch_story/d903ce81-a501-f88c-addb-5168add2482f.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_01_batch_story/d903ce81-a501-f88c-addb-5168add2482f.flac"
+                }
+              ],
+              "filename": "d903ce81-a501-f88c-addb-5168add2482f"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_01_batch_story/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_01_batch_story/1bb0fd36-b0fd-db8f-4f7a-ea1cb727dd6b.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_01_batch_story/1bb0fd36-b0fd-db8f-4f7a-ea1cb727dd6b.flac"
+                }
+              ],
+              "filename": "1bb0fd36-b0fd-db8f-4f7a-ea1cb727dd6b"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_01_batch_story/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_01_batch_story/f5d99d4c-0871-f57f-61a2-a46961f0e58f.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_01_batch_story/f5d99d4c-0871-f57f-61a2-a46961f0e58f.flac"
+                }
+              ],
+              "filename": "f5d99d4c-0871-f57f-61a2-a46961f0e58f"
+            }
+          ]
+        },
+        {
+          "id": "the_candle_can_hear_the_electricity/track_02_the_candle_hears_the_electricity/aa6f4635b93c2cec",
+          "title": "Track 02 The Candle Hears The Electricity",
+          "order": 2,
+          "prompt": "Minimal ambient electronic instrumental, 54 BPM, warm analog synthesizer drones, faint high-frequency oscillations and deep soft bass. Continuous low pulse, slowly shifting harmonics, delicate shimmering overtones, intimate spacious production, no drums, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_09d14df525854d2a/track_02_the_candle_hears_the_electricity/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_02_the_candle_hears_the_electricity/3fcc267e-d3b0-1bed-bfa3-293bc838fe4e.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_02_the_candle_hears_the_electricity/3fcc267e-d3b0-1bed-bfa3-293bc838fe4e.flac"
+                }
+              ],
+              "filename": "3fcc267e-d3b0-1bed-bfa3-293bc838fe4e"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_02_the_candle_hears_the_electricity/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_02_the_candle_hears_the_electricity/ac00df90-eac6-461f-27bb-492d1d250019.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_02_the_candle_hears_the_electricity/ac00df90-eac6-461f-27bb-492d1d250019.flac"
+                }
+              ],
+              "filename": "ac00df90-eac6-461f-27bb-492d1d250019"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_02_the_candle_hears_the_electricity/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_02_the_candle_hears_the_electricity/8ace3842-bd40-d21f-eefd-dc45c9582e7d.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_02_the_candle_hears_the_electricity/8ace3842-bd40-d21f-eefd-dc45c9582e7d.flac"
+                }
+              ],
+              "filename": "8ace3842-bd40-d21f-eefd-dc45c9582e7d"
+            }
+          ]
+        },
+        {
+          "id": "the_candle_can_hear_the_electricity/track_03_cold_brewed_green_tea/d35e60bb2992d311",
+          "title": "Track 03 Cold Brewed Green Tea",
+          "order": 3,
+          "prompt": "Warm ambient instrumental, 58 BPM, soft electric piano, sustained synthesizer pads and delicate glassy tones. Simple repeating three-note melody, gentle slow pulse, consonant suspended harmonies, smooth evolving textures, peaceful intimate atmosphere, no drums, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_09d14df525854d2a/track_03_cold_brewed_green_tea/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_03_cold_brewed_green_tea/08d1a534-8641-f47f-97c1-3deb3d3e4866.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_03_cold_brewed_green_tea/08d1a534-8641-f47f-97c1-3deb3d3e4866.flac"
+                }
+              ],
+              "filename": "08d1a534-8641-f47f-97c1-3deb3d3e4866"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_03_cold_brewed_green_tea/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_03_cold_brewed_green_tea/af57c931-8dc5-47f8-a64e-5b4d83d945e7.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_03_cold_brewed_green_tea/af57c931-8dc5-47f8-a64e-5b4d83d945e7.flac"
+                }
+              ],
+              "filename": "af57c931-8dc5-47f8-a64e-5b4d83d945e7"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_03_cold_brewed_green_tea/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_03_cold_brewed_green_tea/e29b03db-2cae-ca6f-5b5b-b4e3e36afdb6.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_03_cold_brewed_green_tea/e29b03db-2cae-ca6f-5b5b-b4e3e36afdb6.flac"
+                }
+              ],
+              "filename": "e29b03db-2cae-ca6f-5b5b-b4e3e36afdb6"
+            }
+          ]
+        },
+        {
+          "id": "the_candle_can_hear_the_electricity/track_04_a_flame_beneath_the_glass/d061f92906e8d576",
+          "title": "Track 04 A Flame Beneath The Glass",
+          "order": 4,
+          "prompt": "Organic ambient instrumental, 56 BPM, gentle acoustic guitar harmonics, warm cello drones and soft atmospheric synthesizer. Slow repeating plucked notes, sustained harmonic layers, delicate gradual swells, natural resonant textures, no percussion, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_09d14df525854d2a/track_04_a_flame_beneath_the_glass/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_04_a_flame_beneath_the_glass/e835884a-3f02-5d30-e2cc-9071a838fa7c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_04_a_flame_beneath_the_glass/e835884a-3f02-5d30-e2cc-9071a838fa7c.flac"
+                }
+              ],
+              "filename": "e835884a-3f02-5d30-e2cc-9071a838fa7c"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_04_a_flame_beneath_the_glass/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_04_a_flame_beneath_the_glass/aecabfde-3d7e-3ad0-5014-46f54429e4a1.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_04_a_flame_beneath_the_glass/aecabfde-3d7e-3ad0-5014-46f54429e4a1.flac"
+                }
+              ],
+              "filename": "aecabfde-3d7e-3ad0-5014-46f54429e4a1"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_04_a_flame_beneath_the_glass/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_04_a_flame_beneath_the_glass/0567831e-2b4b-ab9d-65d9-7b17ad4ca574.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_04_a_flame_beneath_the_glass/0567831e-2b4b-ab9d-65d9-7b17ad4ca574.flac"
+                }
+              ],
+              "filename": "0567831e-2b4b-ab9d-65d9-7b17ad4ca574"
+            }
+          ]
+        },
+        {
+          "id": "the_candle_can_hear_the_electricity/track_05_the_leaves_are_still_a_flood/c0e9ee6fd485af2a",
+          "title": "Track 05 The Leaves Are Still A Flood",
+          "order": 5,
+          "prompt": "Atmospheric cinematic ambient instrumental, 60 BPM, deep warm synthesizer pads, soft bowed strings and distant piano notes. Slow wave-like harmonic movement, repeating descending motif, spacious sustained textures, melancholic autumn atmosphere, no drums, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_09d14df525854d2a/track_05_the_leaves_are_still_a_flood/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_05_the_leaves_are_still_a_flood/0ac6220e-68fe-c252-853f-cef75aa44acc.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_05_the_leaves_are_still_a_flood/0ac6220e-68fe-c252-853f-cef75aa44acc.flac"
+                }
+              ],
+              "filename": "0ac6220e-68fe-c252-853f-cef75aa44acc"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_05_the_leaves_are_still_a_flood/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_05_the_leaves_are_still_a_flood/e9bcddb7-3052-98cb-8ced-5e1702ca23cc.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_05_the_leaves_are_still_a_flood/e9bcddb7-3052-98cb-8ced-5e1702ca23cc.flac"
+                }
+              ],
+              "filename": "e9bcddb7-3052-98cb-8ced-5e1702ca23cc"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_05_the_leaves_are_still_a_flood/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_05_the_leaves_are_still_a_flood/e49b3d45-95b7-415a-92ba-ee517000383c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_05_the_leaves_are_still_a_flood/e49b3d45-95b7-415a-92ba-ee517000383c.flac"
+                }
+              ],
+              "filename": "e49b3d45-95b7-415a-92ba-ee517000383c"
+            }
+          ]
+        },
+        {
+          "id": "the_candle_can_hear_the_electricity/track_06_the_city_has_not_yet_spoken/e51f66d7c26b9686",
+          "title": "Track 06 The City Has Not Yet Spoken",
+          "order": 6,
+          "prompt": "Minimalist dark ambient instrumental, 52 BPM, low analog synthesizer drone, faint pulsing electronic tones and distant bell-like harmonics. Extremely restrained melodic movement, slowly evolving minor harmonies, gentle continuous pulse, quiet immersive sound, no percussion, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_09d14df525854d2a/track_06_the_city_has_not_yet_spoken/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_06_the_city_has_not_yet_spoken/acf12358-f5e7-7a5d-faa5-21003986df4d.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_06_the_city_has_not_yet_spoken/acf12358-f5e7-7a5d-faa5-21003986df4d.flac"
+                }
+              ],
+              "filename": "acf12358-f5e7-7a5d-faa5-21003986df4d"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_06_the_city_has_not_yet_spoken/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_06_the_city_has_not_yet_spoken/2c2f16de-f35d-fb82-7d77-50b394f03a94.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_06_the_city_has_not_yet_spoken/2c2f16de-f35d-fb82-7d77-50b394f03a94.flac"
+                }
+              ],
+              "filename": "2c2f16de-f35d-fb82-7d77-50b394f03a94"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_06_the_city_has_not_yet_spoken/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_06_the_city_has_not_yet_spoken/b0c602b4-2fbc-423f-67e6-c65b789b1a00.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_06_the_city_has_not_yet_spoken/b0c602b4-2fbc-423f-67e6-c65b789b1a00.flac"
+                }
+              ],
+              "filename": "b0c602b4-2fbc-423f-67e6-c65b789b1a00"
+            }
+          ]
+        },
+        {
+          "id": "the_candle_can_hear_the_electricity/track_07_the_temperature_of_tenderness/7647b22381a82d49",
+          "title": "Track 07 The Temperature Of Tenderness",
+          "order": 7,
+          "prompt": "Intimate instrumental neoclassical chamber music, 62 BPM, expressive solo cello and delicate acoustic piano. Simple ascending melody, gentle measured pulse, warm major seventh harmonies, restrained dynamics, soft natural acoustics, no percussion, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_09d14df525854d2a/track_07_the_temperature_of_tenderness/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_07_the_temperature_of_tenderness/319650f1-cc5d-2316-3556-5e32b45c095b.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_07_the_temperature_of_tenderness/319650f1-cc5d-2316-3556-5e32b45c095b.flac"
+                }
+              ],
+              "filename": "319650f1-cc5d-2316-3556-5e32b45c095b"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_07_the_temperature_of_tenderness/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_07_the_temperature_of_tenderness/87f031cf-6686-a208-3603-b2e75e63aa49.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_07_the_temperature_of_tenderness/87f031cf-6686-a208-3603-b2e75e63aa49.flac"
+                }
+              ],
+              "filename": "87f031cf-6686-a208-3603-b2e75e63aa49"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_07_the_temperature_of_tenderness/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_07_the_temperature_of_tenderness/ab49a42a-d598-cd13-0b85-affdf54c44de.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_07_the_temperature_of_tenderness/ab49a42a-d598-cd13-0b85-affdf54c44de.flac"
+                }
+              ],
+              "filename": "ab49a42a-d598-cd13-0b85-affdf54c44de"
+            }
+          ]
+        },
+        {
+          "id": "the_candle_can_hear_the_electricity/track_08_when_the_tea_is_ready/31a1dfe09c6dfb9b",
+          "title": "Track 08 When The Tea Is Ready",
+          "order": 8,
+          "prompt": "Tender instrumental Japanese-inspired chamber music, 64 BPM, lyrical shakuhachi flute, delicate koto and warm sustained cello. Gentle pentatonic melody, steady relaxed pulse, soft plucked accompaniment, spacious phrasing, peaceful luminous resolution, no drums, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_09d14df525854d2a/track_08_when_the_tea_is_ready/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_08_when_the_tea_is_ready/03a745a7-5a8d-dbc1-e033-d202338e235e.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_08_when_the_tea_is_ready/03a745a7-5a8d-dbc1-e033-d202338e235e.flac"
+                }
+              ],
+              "filename": "03a745a7-5a8d-dbc1-e033-d202338e235e"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_08_when_the_tea_is_ready/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_08_when_the_tea_is_ready/239a0100-c21e-fbc8-798f-c0f4d1bbcf80.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_08_when_the_tea_is_ready/239a0100-c21e-fbc8-798f-c0f4d1bbcf80.flac"
+                }
+              ],
+              "filename": "239a0100-c21e-fbc8-798f-c0f4d1bbcf80"
+            },
+            {
+              "id": "studio_batch_09d14df525854d2a/track_08_when_the_tea_is_ready/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1794901396.734572,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_08_when_the_tea_is_ready/e4fb2a3d-83b3-9b24-d6db-0aea695c8a1f.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_09d14df525854d2a/track_08_when_the_tea_is_ready/e4fb2a3d-83b3-9b24-d6db-0aea695c8a1f.flac"
+                }
+              ],
+              "filename": "e4fb2a3d-83b3-9b24-d6db-0aea695c8a1f"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
