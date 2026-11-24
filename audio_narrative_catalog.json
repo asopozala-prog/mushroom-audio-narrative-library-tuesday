@@ -968,6 +968,333 @@
           ]
         }
       ]
+    },
+    {
+      "id": "seven_dances_for_the_changing_moon",
+      "title": "Seven Dances For The Changing Moon",
+      "description": "In the middle of autumn, beneath the great full moon of the Moon Festival, a large family of wild rabbits gathers to dance among the brilliantly colored leaves. They love the moon so deeply that they decide to dance for it every day, even as its shape and place in the sky change. Sometimes the moon shines above them at night, sometimes it appears pale against the blue afternoon, and sometimes it is only a slender crescent above the trees. As the weeks pass, the rabbits continue dancing through golden afternoons, windy evenings, bare November forests, and the first cold mornings of winter. Their dances change with the light, the weather, and the gradual disappearance of autumn, but their devotion to the moon remains unchanged. Finally, beneath a new full moon shining over the first snow, the rabbits dance again, their small feet moving across the white earth where the autumn leaves once lay.",
+      "scenes": [
+        {
+          "id": "seven_dances_for_the_changing_moon/track_01_batch_story/e7c00831f3b6e61f",
+          "title": "Track 01 Batch Story",
+          "order": 1,
+          "prompt": "In the middle of autumn, beneath the great full moon of the Moon Festival, a large family of wild rabbits gathers to dance among the brilliantly colored leaves. They love the moon so deeply that they decide to dance for it every day, even as its shape and place in the sky change. Sometimes the moon shines above them at night, sometimes it appears pale against the blue afternoon, and sometimes it is only a slender crescent above the trees. As the weeks pass, the rabbits continue dancing through golden afternoons, windy evenings, bare November forests, and the first cold mornings of winter. Their dances change with the light, the weather, and the gradual disappearance of autumn, but their devotion to the moon remains unchanged. Finally, beneath a new full moon shining over the first snow, the rabbits dance again, their small feet moving across the white earth where the autumn leaves once lay.",
+          "recordings": [
+            {
+              "id": "studio_batch_92114ed8013d4582/track_01_batch_story/1/363ca020-bd5e-bfd0-888f-fcd2a835c344.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_01_batch_story/variation_01/363ca020-bd5e-bfd0-888f-fcd2a835c344.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_01_batch_story/variation_01/363ca020-bd5e-bfd0-888f-fcd2a835c344.flac"
+                }
+              ],
+              "filename": "363ca020-bd5e-bfd0-888f-fcd2a835c344"
+            },
+            {
+              "id": "studio_batch_92114ed8013d4582/track_01_batch_story/2/d087fa6e-0037-84ef-7bcc-1cbba575fa7c.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_01_batch_story/variation_02/d087fa6e-0037-84ef-7bcc-1cbba575fa7c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_01_batch_story/variation_02/d087fa6e-0037-84ef-7bcc-1cbba575fa7c.flac"
+                }
+              ],
+              "filename": "d087fa6e-0037-84ef-7bcc-1cbba575fa7c"
+            }
+          ]
+        },
+        {
+          "id": "seven_dances_for_the_changing_moon/track_02_the_festival_of_the_full_moon/93bd2e560bb9661c",
+          "title": "Track 02 The Festival Of The Full Moon",
+          "order": 2,
+          "prompt": "Spiritual organic ambient dance instrumental, 88 BPM, 4/4, D Dorian mode. Airy shakuhachi flute, delicate koto plucks, warm analog synthesizer pads, deep rounded bass and soft frame drums. Flowing pentatonic melody, steady hypnotic electronic pulse, luminous layered textures, gentle celebratory energy, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_92114ed8013d4582/track_02_the_festival_of_the_full_moon/1/76d67e2e-e6a0-b753-75f0-ebd419a91c77.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_02_the_festival_of_the_full_moon/variation_01/76d67e2e-e6a0-b753-75f0-ebd419a91c77.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_02_the_festival_of_the_full_moon/variation_01/76d67e2e-e6a0-b753-75f0-ebd419a91c77.flac"
+                }
+              ],
+              "filename": "76d67e2e-e6a0-b753-75f0-ebd419a91c77"
+            },
+            {
+              "id": "studio_batch_92114ed8013d4582/track_02_the_festival_of_the_full_moon/2/9e592c9f-6a79-4669-4ee7-e05af7e165a0.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_02_the_festival_of_the_full_moon/variation_02/9e592c9f-6a79-4669-4ee7-e05af7e165a0.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_02_the_festival_of_the_full_moon/variation_02/9e592c9f-6a79-4669-4ee7-e05af7e165a0.flac"
+                }
+              ],
+              "filename": "9e592c9f-6a79-4669-4ee7-e05af7e165a0"
+            }
+          ]
+        },
+        {
+          "id": "seven_dances_for_the_changing_moon/track_03_the_moon_above_the_golden_afternoon/b0b85f0fee4b9952",
+          "title": "Track 03 The Moon Above The Golden Afternoon",
+          "order": 3,
+          "prompt": "Spiritual organic ambient dance instrumental, 88 BPM, 4/4, D Dorian mode. Airy shakuhachi flute, delicate koto plucks, warm analog synthesizer pads, deep rounded bass and soft frame drums. Bright repeating koto melody, gentle syncopated rhythm, soft shimmering harmonics, spacious warm atmosphere, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_92114ed8013d4582/track_03_the_moon_above_the_golden_afternoon/1/30b74295-5051-0e09-4b07-396634627559.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_03_the_moon_above_the_golden_afternoon/variation_01/30b74295-5051-0e09-4b07-396634627559.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_03_the_moon_above_the_golden_afternoon/variation_01/30b74295-5051-0e09-4b07-396634627559.flac"
+                }
+              ],
+              "filename": "30b74295-5051-0e09-4b07-396634627559"
+            },
+            {
+              "id": "studio_batch_92114ed8013d4582/track_03_the_moon_above_the_golden_afternoon/2/2eccfd31-5541-7f80-353a-5bb8ae3cdc4a.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_03_the_moon_above_the_golden_afternoon/variation_02/2eccfd31-5541-7f80-353a-5bb8ae3cdc4a.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_03_the_moon_above_the_golden_afternoon/variation_02/2eccfd31-5541-7f80-353a-5bb8ae3cdc4a.flac"
+                }
+              ],
+              "filename": "2eccfd31-5541-7f80-353a-5bb8ae3cdc4a"
+            }
+          ]
+        },
+        {
+          "id": "seven_dances_for_the_changing_moon/track_04_the_crescent_between_the_branches/707fa1caa0a730d5",
+          "title": "Track 04 The Crescent Between The Branches",
+          "order": 4,
+          "prompt": "Spiritual organic ambient dance instrumental, 88 BPM, 4/4, D Dorian mode. Airy shakuhachi flute, delicate koto plucks, warm analog synthesizer pads, deep rounded bass and soft frame drums. Short questioning flute phrases, sparse plucked responses, steady understated electronic groove, delicate mysterious harmonies, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_92114ed8013d4582/track_04_the_crescent_between_the_branches/1/990d0ce5-4945-a279-35d5-81ca1874e617.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_04_the_crescent_between_the_branches/variation_01/990d0ce5-4945-a279-35d5-81ca1874e617.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_04_the_crescent_between_the_branches/variation_01/990d0ce5-4945-a279-35d5-81ca1874e617.flac"
+                }
+              ],
+              "filename": "990d0ce5-4945-a279-35d5-81ca1874e617"
+            },
+            {
+              "id": "studio_batch_92114ed8013d4582/track_04_the_crescent_between_the_branches/2/6a9d99e5-dc30-bb74-7985-d7cdce252f30.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_04_the_crescent_between_the_branches/variation_02/6a9d99e5-dc30-bb74-7985-d7cdce252f30.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_04_the_crescent_between_the_branches/variation_02/6a9d99e5-dc30-bb74-7985-d7cdce252f30.flac"
+                }
+              ],
+              "filename": "6a9d99e5-dc30-bb74-7985-d7cdce252f30"
+            }
+          ]
+        },
+        {
+          "id": "seven_dances_for_the_changing_moon/track_05_the_rabbits_dance_with_the_wind/74b91823522f9248",
+          "title": "Track 05 The Rabbits Dance With The Wind",
+          "order": 5,
+          "prompt": "Spiritual organic ambient dance instrumental, 88 BPM, 4/4, D Dorian mode. Airy shakuhachi flute, delicate koto plucks, warm analog synthesizer pads, deep rounded bass and soft frame drums. Animated repeating plucked motifs, flowing flute ornaments, stronger rhythmic accents, gently swirling synthesizer textures, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_92114ed8013d4582/track_05_the_rabbits_dance_with_the_wind/1/71320d42-de2e-0170-78a4-05a8ad27c48a.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_05_the_rabbits_dance_with_the_wind/variation_01/71320d42-de2e-0170-78a4-05a8ad27c48a.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_05_the_rabbits_dance_with_the_wind/variation_01/71320d42-de2e-0170-78a4-05a8ad27c48a.flac"
+                }
+              ],
+              "filename": "71320d42-de2e-0170-78a4-05a8ad27c48a"
+            },
+            {
+              "id": "studio_batch_92114ed8013d4582/track_05_the_rabbits_dance_with_the_wind/2/f42986bd-88bb-27ac-0bcc-ec61de68fa8f.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_05_the_rabbits_dance_with_the_wind/variation_02/f42986bd-88bb-27ac-0bcc-ec61de68fa8f.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_05_the_rabbits_dance_with_the_wind/variation_02/f42986bd-88bb-27ac-0bcc-ec61de68fa8f.flac"
+                }
+              ],
+              "filename": "f42986bd-88bb-27ac-0bcc-ec61de68fa8f"
+            }
+          ]
+        },
+        {
+          "id": "seven_dances_for_the_changing_moon/track_06_the_pale_moon_of_november/2c5d73a655391683",
+          "title": "Track 06 The Pale Moon Of November",
+          "order": 6,
+          "prompt": "Spiritual organic ambient dance instrumental, 88 BPM, 4/4, D Dorian mode. Airy shakuhachi flute, delicate koto plucks, warm analog synthesizer pads, deep rounded bass and soft frame drums. Long descending flute melody, restrained koto patterns, steady deep electronic pulse, cool sustained harmonies, spacious melancholic atmosphere, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_92114ed8013d4582/track_06_the_pale_moon_of_november/1/8598d635-240a-736b-0f43-6e62c462fb64.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_06_the_pale_moon_of_november/variation_01/8598d635-240a-736b-0f43-6e62c462fb64.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_06_the_pale_moon_of_november/variation_01/8598d635-240a-736b-0f43-6e62c462fb64.flac"
+                }
+              ],
+              "filename": "8598d635-240a-736b-0f43-6e62c462fb64"
+            },
+            {
+              "id": "studio_batch_92114ed8013d4582/track_06_the_pale_moon_of_november/2/a4be5386-abaa-d8cb-b4c6-fcc7318247ff.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_06_the_pale_moon_of_november/variation_02/a4be5386-abaa-d8cb-b4c6-fcc7318247ff.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_06_the_pale_moon_of_november/variation_02/a4be5386-abaa-d8cb-b4c6-fcc7318247ff.flac"
+                }
+              ],
+              "filename": "a4be5386-abaa-d8cb-b4c6-fcc7318247ff"
+            }
+          ]
+        },
+        {
+          "id": "seven_dances_for_the_changing_moon/track_07_dancing_among_the_bare_trees/1589bd0bd51ff1e5",
+          "title": "Track 07 Dancing Among The Bare Trees",
+          "order": 7,
+          "prompt": "Spiritual organic ambient dance instrumental, 88 BPM, 4/4, D Dorian mode. Airy shakuhachi flute, delicate koto plucks, warm analog synthesizer pads, deep rounded bass and soft frame drums. Clear repeating flute motif, precise plucked rhythm, deep hypnotic bass groove, restrained percussion, quiet determined energy, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_92114ed8013d4582/track_07_dancing_among_the_bare_trees/1/35f7765a-2221-d48d-2df0-a46fac295515.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_07_dancing_among_the_bare_trees/variation_01/35f7765a-2221-d48d-2df0-a46fac295515.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_07_dancing_among_the_bare_trees/variation_01/35f7765a-2221-d48d-2df0-a46fac295515.flac"
+                }
+              ],
+              "filename": "35f7765a-2221-d48d-2df0-a46fac295515"
+            },
+            {
+              "id": "studio_batch_92114ed8013d4582/track_07_dancing_among_the_bare_trees/2/c5830ad2-43ad-fd2f-752e-c567c39861d1.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_07_dancing_among_the_bare_trees/variation_02/c5830ad2-43ad-fd2f-752e-c567c39861d1.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_07_dancing_among_the_bare_trees/variation_02/c5830ad2-43ad-fd2f-752e-c567c39861d1.flac"
+                }
+              ],
+              "filename": "c5830ad2-43ad-fd2f-752e-c567c39861d1"
+            }
+          ]
+        },
+        {
+          "id": "seven_dances_for_the_changing_moon/track_08_the_first_full_moon_on_snow/f90e195ace2bc064",
+          "title": "Track 08 The First Full Moon On Snow",
+          "order": 8,
+          "prompt": "Spiritual organic ambient dance instrumental, 88 BPM, 4/4, D Dorian mode. Airy shakuhachi flute, delicate koto plucks, warm analog synthesizer pads, deep rounded bass and soft frame drums. Returning melody from the opening dance, luminous sustained harmonies, gentle layered arpeggios, steady ceremonial pulse, gradual warm crescendo and peaceful resolution, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_92114ed8013d4582/track_08_the_first_full_moon_on_snow/1/7c4eb7ce-2801-9cf6-5971-8bb5b8600fa2.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_08_the_first_full_moon_on_snow/variation_01/7c4eb7ce-2801-9cf6-5971-8bb5b8600fa2.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_08_the_first_full_moon_on_snow/variation_01/7c4eb7ce-2801-9cf6-5971-8bb5b8600fa2.flac"
+                }
+              ],
+              "filename": "7c4eb7ce-2801-9cf6-5971-8bb5b8600fa2"
+            },
+            {
+              "id": "studio_batch_92114ed8013d4582/track_08_the_first_full_moon_on_snow/2/6320573b-dad2-f569-ff66-1cfc29b388d6.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795530197.2144098,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_08_the_first_full_moon_on_snow/variation_02/6320573b-dad2-f569-ff66-1cfc29b388d6.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_92114ed8013d4582/track_08_the_first_full_moon_on_snow/variation_02/6320573b-dad2-f569-ff66-1cfc29b388d6.flac"
+                }
+              ],
+              "filename": "6320573b-dad2-f569-ff66-1cfc29b388d6"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
