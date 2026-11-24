@@ -1295,6 +1295,117 @@
           ]
         }
       ]
+    },
+    {
+      "id": "notebook_rotation_gpu_experiment",
+      "title": "Notebook Rotation Gpu Experiment",
+      "description": "",
+      "scenes": [
+        {
+          "id": "notebook_rotation_gpu_experiment/track_01_rotation_test/2bd7946da23caa77",
+          "title": "Track 01 Rotation Test",
+          "order": 1,
+          "prompt": "Instrumental solo piano, 80 BPM, gentle melodic phrasing, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_9fd5049b853e45e4/track_01_rotation_test/2/cbbf9817-67b8-7ad7-928f-81aaea72d30f.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795545114.1142485,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_9fd5049b853e45e4/track_01_rotation_test/variation_02/cbbf9817-67b8-7ad7-928f-81aaea72d30f.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_9fd5049b853e45e4/track_01_rotation_test/variation_02/cbbf9817-67b8-7ad7-928f-81aaea72d30f.flac"
+                }
+              ],
+              "filename": "cbbf9817-67b8-7ad7-928f-81aaea72d30f"
+            },
+            {
+              "id": "studio_batch_9fd5049b853e45e4/track_01_rotation_test/2/be94f1da-7d05-97aa-587a-bf3c03cb2c48.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795545114.1142485,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_9fd5049b853e45e4/track_01_rotation_test/variation_02/be94f1da-7d05-97aa-587a-bf3c03cb2c48.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_9fd5049b853e45e4/track_01_rotation_test/variation_02/be94f1da-7d05-97aa-587a-bf3c03cb2c48.flac"
+                }
+              ],
+              "filename": "be94f1da-7d05-97aa-587a-bf3c03cb2c48"
+            },
+            {
+              "id": "studio_batch_9fd5049b853e45e4/track_01_rotation_test/2/fa066ecf-2696-19fa-19fb-ec5dfd4f682c.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795545114.1142485,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_9fd5049b853e45e4/track_01_rotation_test/variation_02/fa066ecf-2696-19fa-19fb-ec5dfd4f682c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_9fd5049b853e45e4/track_01_rotation_test/variation_02/fa066ecf-2696-19fa-19fb-ec5dfd4f682c.flac"
+                }
+              ],
+              "filename": "fa066ecf-2696-19fa-19fb-ec5dfd4f682c"
+            },
+            {
+              "id": "studio_batch_9fd5049b853e45e4/track_01_rotation_test/3/8f6e70e6-7161-97f1-dd2d-9e27e1561add.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795545114.1142485,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_9fd5049b853e45e4/track_01_rotation_test/variation_03/8f6e70e6-7161-97f1-dd2d-9e27e1561add.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_9fd5049b853e45e4/track_01_rotation_test/variation_03/8f6e70e6-7161-97f1-dd2d-9e27e1561add.flac"
+                }
+              ],
+              "filename": "8f6e70e6-7161-97f1-dd2d-9e27e1561add"
+            },
+            {
+              "id": "studio_batch_9fd5049b853e45e4/track_01_rotation_test/3/7f750a16-52e8-f23c-8fd7-5da798d3beb7.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795545114.1142485,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_9fd5049b853e45e4/track_01_rotation_test/variation_03/7f750a16-52e8-f23c-8fd7-5da798d3beb7.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_9fd5049b853e45e4/track_01_rotation_test/variation_03/7f750a16-52e8-f23c-8fd7-5da798d3beb7.flac"
+                }
+              ],
+              "filename": "7f750a16-52e8-f23c-8fd7-5da798d3beb7"
+            },
+            {
+              "id": "studio_batch_9fd5049b853e45e4/track_01_rotation_test/3/dbf13f34-2137-b18d-a0bc-1cad8ac8a503.flac",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795545114.1142485,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_9fd5049b853e45e4/track_01_rotation_test/variation_03/dbf13f34-2137-b18d-a0bc-1cad8ac8a503.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-tuesday/main/studio_batch_9fd5049b853e45e4/track_01_rotation_test/variation_03/dbf13f34-2137-b18d-a0bc-1cad8ac8a503.flac"
+                }
+              ],
+              "filename": "dbf13f34-2137-b18d-a0bc-1cad8ac8a503"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
